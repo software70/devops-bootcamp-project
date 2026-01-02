@@ -13,7 +13,7 @@ This project demonstrates a complete DevOps workflow using Infrastructure as Cod
 - Dockerized web application
 - Prometheus & Grafana for monitoring
 - Cloudflare DNS & Tunnel for secure access
-- GitHub Pages for documentation
+- GitHub Pages & Wiki for documentation
   
  ### 🔗 Project URLs
 - [Web Application](http://web.software70.com)
