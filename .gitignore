@@ -38,3 +38,15 @@ override.tf.json
 terraform.rc
 
 # End of https://www.toptal.com/developers/gitignore/api/terraform
+
+# Binaries
+*.exe
+*.msi
+*.pkg
+
+# Ansible retry files
+*.retry
+
+# OS files
+.DS_Store
+Thumbs.db
