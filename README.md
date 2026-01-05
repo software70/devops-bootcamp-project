@@ -27,14 +27,14 @@ This project demonstrates a complete DevOps workflow using Infrastructure as Cod
 - Terraform backend stored in S3
 - Public subnet: Web Server + Elastic IP
 - Private subnet: Ansible Controller & Monitoring Server
-- Security groups with least access
+- Security groups
 - Amazon ECR for container image storage
 
 ## 🔧 Configuration Management (Ansible)
 
 - Ansible Controller manages all servers
 - Docker installed using Ansible
-- Web application deployed as Docker container
+- Web application deployed via Docker container
 - Monitoring stack deployed using Docker
 
 ## 📊 Monitoring & Observability
